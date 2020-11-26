@@ -1,0 +1,65 @@
+[
+  {
+    "buyer" : "Sprocket Corp",
+    "items" : [
+      {
+        "item":"Simple Widget",
+        "quantity" : 20
+      },
+      {
+        "item":"Free sticker",
+        "quantity": 1
+      }
+    ],
+    "orderDate" : "2018/05/23",
+    "orderTime" : "14:23",
+    "shippingDate" : "2018/05/28",
+    "shippingTime" : "13:00",
+    "saleRoute" : "Internet"
+  },
+  {
+    "buyer" : "Doohickey Inc",
+    "items" : [
+      {
+        "item":"Fancy Widget",
+        "quantity":10
+      },
+      {
+        "item":"Blue cover",
+        "quantity":5
+      },
+      {
+        "item":"Green cover",
+        "quantity":10
+      },
+      {
+        "item":"Free sticker",
+        "quantity":4
+      }
+    ],
+    "orderDate" : "2018/05/20",
+    "orderTime" : "14:23",
+    "shippingDate" : "2018/06/05",
+    "shippingTime" : "13:00",
+    "saleRoute" : "Phone"
+  },
+  {
+    "buyer":"Super Secret Corp",
+    "items":[
+      {
+        "item":"Basic Widget",
+        "quantity":100
+      },
+      {
+        "item":"Additional blue light",
+        "quantity":5000
+      }
+    ],
+    "orderDate" : "2018/06/01",
+    "orderTime" : "09:35",
+    "shippingDate" : "2018/06/05",
+    "shippingTime" : "13:00",
+    "saleRoute" : "Post"
+
+  }
+]
